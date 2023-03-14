@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce100_hw1_algo_lib_cs", "ce100-hw1-haluk-kurtulus\ce100_hw1_algo_lib_cs.csproj", "{699B2143-6C8B-4CCA-8B9B-24CCBFA600AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce100_hw1_algo_test_cs_", "ce100_hw1_algo_test_cs_\ce100_hw1_algo_test_cs_.csproj", "{CCCB6C62-8E18-46AD-B841-28DABBE48502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699B2143-6C8B-4CCA-8B9B-24CCBFA600AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699B2143-6C8B-4CCA-8B9B-24CCBFA600AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699B2143-6C8B-4CCA-8B9B-24CCBFA600AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699B2143-6C8B-4CCA-8B9B-24CCBFA600AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCB6C62-8E18-46AD-B841-28DABBE48502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCB6C62-8E18-46AD-B841-28DABBE48502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCB6C62-8E18-46AD-B841-28DABBE48502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCB6C62-8E18-46AD-B841-28DABBE48502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A2D630-E142-43E5-A1E8-CFDAF87FF1A7}
+	EndGlobalSection
+EndGlobal
